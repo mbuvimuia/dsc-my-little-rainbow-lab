@@ -9,3 +9,24 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#red{
+  border-top-color: red; /* this sets the top of the circle to red */
+}
+#orange{
+  border-top-color: orange; /* this sets the top of the circle to orange */
+}
+#yellow{
+  border-top-color: yellow; /* this sets the top of the circle to yellow */
+}
+#green{
+  border-top-color: green; /* this sets the top of the circle to green */
+}
+#blue{
+  border-top-color: blue; /* this sets the top of the circle to blue */
+}
+#indigo{
+  border-top-color: indigo; /* this sets the top of the circle to indigo */
+}
+#violet{
+  border-top-color: violet; /* this sets the top of the circle to violet */
+}
